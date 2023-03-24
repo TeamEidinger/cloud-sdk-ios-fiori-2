@@ -102,6 +102,11 @@ struct CoreContentView: View {
                     destination: EmptyStateViewExample()) {
                     Text("EmptyStateViewExample")
                 }
+
+                NavigationLink(
+                    destination: AttachmentTestCases()) {
+                    Text("Attachments Example")
+                }
             }
         }.navigationBarTitle("FioriSwiftUICore")
     }

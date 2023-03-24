@@ -122,6 +122,23 @@
 		B8D4376F25F980340024EE7D /* ObjectCell_Spec_Jan2018.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8D4376E25F980340024EE7D /* ObjectCell_Spec_Jan2018.swift */; };
 		B8D4377125F983730024EE7D /* ObjectCell_Rules_Alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8D4377025F983730024EE7D /* ObjectCell_Rules_Alignment.swift */; };
 		B8D437732609479E0024EE7D /* SingleActionFollowButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8D437722609479E0024EE7D /* SingleActionFollowButton.swift */; };
+		C1FAF40329CD1F6B00CEA261 /* Zip Sample.zip in Resources */ = {isa = PBXBuildFile; fileRef = C1FAF3F229CD1F6B00CEA261 /* Zip Sample.zip */; };
+		C1FAF40429CD1F6B00CEA261 /* PDF Sample 2.pdf in Resources */ = {isa = PBXBuildFile; fileRef = C1FAF3F329CD1F6B00CEA261 /* PDF Sample 2.pdf */; };
+		C1FAF40529CD1F6B00CEA261 /* Word Sample 1.docx in Resources */ = {isa = PBXBuildFile; fileRef = C1FAF3F429CD1F6B00CEA261 /* Word Sample 1.docx */; };
+		C1FAF40629CD1F6B00CEA261 /* SingleAttachmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FAF3F529CD1F6B00CEA261 /* SingleAttachmentView.swift */; };
+		C1FAF40729CD1F6B00CEA261 /* PDF Sample 1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = C1FAF3F629CD1F6B00CEA261 /* PDF Sample 1.pdf */; };
+		C1FAF40829CD1F6B00CEA261 /* AttachmentViewCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FAF3F729CD1F6B00CEA261 /* AttachmentViewCollection.swift */; };
+		C1FAF40929CD1F6B00CEA261 /* MD Sample.md in Resources */ = {isa = PBXBuildFile; fileRef = C1FAF3F829CD1F6B00CEA261 /* MD Sample.md */; };
+		C1FAF40A29CD1F6B00CEA261 /* Hello World.txt in Resources */ = {isa = PBXBuildFile; fileRef = C1FAF3F929CD1F6B00CEA261 /* Hello World.txt */; };
+		C1FAF40B29CD1F6B00CEA261 /* ViewControllerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FAF3FA29CD1F6B00CEA261 /* ViewControllerView.swift */; };
+		C1FAF40C29CD1F6B00CEA261 /* San Ramon.png in Resources */ = {isa = PBXBuildFile; fileRef = C1FAF3FB29CD1F6B00CEA261 /* San Ramon.png */; };
+		C1FAF40D29CD1F6B00CEA261 /* AttachmentTestCases.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FAF3FC29CD1F6B00CEA261 /* AttachmentTestCases.swift */; };
+		C1FAF40E29CD1F6B00CEA261 /* Artist Daqian Zhang.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C1FAF3FD29CD1F6B00CEA261 /* Artist Daqian Zhang.jpeg */; };
+		C1FAF40F29CD1F6B00CEA261 /* Rainbow Dublin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C1FAF3FE29CD1F6B00CEA261 /* Rainbow Dublin.jpg */; };
+		C1FAF41029CD1F6B00CEA261 /* URL+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FAF3FF29CD1F6B00CEA261 /* URL+Extensions.swift */; };
+		C1FAF41129CD1F6B00CEA261 /* HTML Sample.html in Resources */ = {isa = PBXBuildFile; fileRef = C1FAF40029CD1F6B00CEA261 /* HTML Sample.html */; };
+		C1FAF41229CD1F6B00CEA261 /* President Donald Trump.svg in Resources */ = {isa = PBXBuildFile; fileRef = C1FAF40229CD1F6B00CEA261 /* President Donald Trump.svg */; };
+		C1FAF41429CD27EB00CEA261 /* ConstantAndFunc.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1FAF41329CD27EB00CEA261 /* ConstantAndFunc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -301,6 +318,23 @@
 		B8D4376E25F980340024EE7D /* ObjectCell_Spec_Jan2018.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectCell_Spec_Jan2018.swift; sourceTree = "<group>"; };
 		B8D4377025F983730024EE7D /* ObjectCell_Rules_Alignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectCell_Rules_Alignment.swift; sourceTree = "<group>"; };
 		B8D437722609479E0024EE7D /* SingleActionFollowButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleActionFollowButton.swift; sourceTree = "<group>"; };
+		C1FAF3F229CD1F6B00CEA261 /* Zip Sample.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "Zip Sample.zip"; sourceTree = "<group>"; };
+		C1FAF3F329CD1F6B00CEA261 /* PDF Sample 2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "PDF Sample 2.pdf"; sourceTree = "<group>"; };
+		C1FAF3F429CD1F6B00CEA261 /* Word Sample 1.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Word Sample 1.docx"; sourceTree = "<group>"; };
+		C1FAF3F529CD1F6B00CEA261 /* SingleAttachmentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingleAttachmentView.swift; sourceTree = "<group>"; };
+		C1FAF3F629CD1F6B00CEA261 /* PDF Sample 1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "PDF Sample 1.pdf"; sourceTree = "<group>"; };
+		C1FAF3F729CD1F6B00CEA261 /* AttachmentViewCollection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AttachmentViewCollection.swift; sourceTree = "<group>"; };
+		C1FAF3F829CD1F6B00CEA261 /* MD Sample.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "MD Sample.md"; sourceTree = "<group>"; };
+		C1FAF3F929CD1F6B00CEA261 /* Hello World.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Hello World.txt"; sourceTree = "<group>"; };
+		C1FAF3FA29CD1F6B00CEA261 /* ViewControllerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerView.swift; sourceTree = "<group>"; };
+		C1FAF3FB29CD1F6B00CEA261 /* San Ramon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "San Ramon.png"; sourceTree = "<group>"; };
+		C1FAF3FC29CD1F6B00CEA261 /* AttachmentTestCases.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AttachmentTestCases.swift; sourceTree = "<group>"; };
+		C1FAF3FD29CD1F6B00CEA261 /* Artist Daqian Zhang.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Artist Daqian Zhang.jpeg"; sourceTree = "<group>"; };
+		C1FAF3FE29CD1F6B00CEA261 /* Rainbow Dublin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Rainbow Dublin.jpg"; sourceTree = "<group>"; };
+		C1FAF3FF29CD1F6B00CEA261 /* URL+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "URL+Extensions.swift"; sourceTree = "<group>"; };
+		C1FAF40029CD1F6B00CEA261 /* HTML Sample.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "HTML Sample.html"; sourceTree = "<group>"; };
+		C1FAF40229CD1F6B00CEA261 /* President Donald Trump.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "President Donald Trump.svg"; sourceTree = "<group>"; };
+		C1FAF41329CD27EB00CEA261 /* ConstantAndFunc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantAndFunc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -494,6 +528,7 @@
 		8A5579C824C1293C0098003A /* FioriSwiftUICore */ = {
 			isa = PBXGroup;
 			children = (
+				C1FAF3F129CD1F6B00CEA261 /* Attachments */,
 				108E43D3292DAB3E006532F3 /* EmptyStateView */,
 				B1D41B1E291A2D2E004E64A5 /* Picker */,
 				B8239D8626815C11003455D2 /* ContactItem */,
@@ -683,6 +718,30 @@
 			path = ObjectItem;
 			sourceTree = "<group>";
 		};
+		C1FAF3F129CD1F6B00CEA261 /* Attachments */ = {
+			isa = PBXGroup;
+			children = (
+				C1FAF3F529CD1F6B00CEA261 /* SingleAttachmentView.swift */,
+				C1FAF3F729CD1F6B00CEA261 /* AttachmentViewCollection.swift */,
+				C1FAF3FA29CD1F6B00CEA261 /* ViewControllerView.swift */,
+				C1FAF3FC29CD1F6B00CEA261 /* AttachmentTestCases.swift */,
+				C1FAF41329CD27EB00CEA261 /* ConstantAndFunc.swift */,
+				C1FAF3FF29CD1F6B00CEA261 /* URL+Extensions.swift */,
+				C1FAF3F229CD1F6B00CEA261 /* Zip Sample.zip */,
+				C1FAF3F329CD1F6B00CEA261 /* PDF Sample 2.pdf */,
+				C1FAF3F429CD1F6B00CEA261 /* Word Sample 1.docx */,
+				C1FAF3F629CD1F6B00CEA261 /* PDF Sample 1.pdf */,
+				C1FAF3F829CD1F6B00CEA261 /* MD Sample.md */,
+				C1FAF3F929CD1F6B00CEA261 /* Hello World.txt */,
+				C1FAF3FB29CD1F6B00CEA261 /* San Ramon.png */,
+				C1FAF3FD29CD1F6B00CEA261 /* Artist Daqian Zhang.jpeg */,
+				C1FAF3FE29CD1F6B00CEA261 /* Rainbow Dublin.jpg */,
+				C1FAF40029CD1F6B00CEA261 /* HTML Sample.html */,
+				C1FAF40229CD1F6B00CEA261 /* President Donald Trump.svg */,
+			);
+			path = Attachments;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -814,13 +873,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C1FAF41229CD1F6B00CEA261 /* President Donald Trump.svg in Resources */,
+				C1FAF40729CD1F6B00CEA261 /* PDF Sample 1.pdf in Resources */,
+				C1FAF40F29CD1F6B00CEA261 /* Rainbow Dublin.jpg in Resources */,
 				8A55796324C1286F0098003A /* LaunchScreen.storyboard in Resources */,
+				C1FAF40929CD1F6B00CEA261 /* MD Sample.md in Resources */,
 				993A122E26A726AC0018028B /* PrivacyText.html in Resources */,
 				8A55796024C1286F0098003A /* Preview Assets.xcassets in Resources */,
 				B8D4376825EEC5E80024EE7D /* Assets.xcassets in Resources */,
+				C1FAF40329CD1F6B00CEA261 /* Zip Sample.zip in Resources */,
+				C1FAF40429CD1F6B00CEA261 /* PDF Sample 2.pdf in Resources */,
 				9996CD03262FFEBE001B99AE /* EULA2.html in Resources */,
+				C1FAF40E29CD1F6B00CEA261 /* Artist Daqian Zhang.jpeg in Resources */,
+				C1FAF40A29CD1F6B00CEA261 /* Hello World.txt in Resources */,
+				C1FAF41129CD1F6B00CEA261 /* HTML Sample.html in Resources */,
+				C1FAF40529CD1F6B00CEA261 /* Word Sample 1.docx in Resources */,
 				993A122F26A726AC0018028B /* PrivacyText.rtf in Resources */,
 				9996CCFF262EB4E8001B99AE /* EULAText.html in Resources */,
+				C1FAF40C29CD1F6B00CEA261 /* San Ramon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -870,7 +940,9 @@
 				99942D572616980A001912C5 /* OnboardingExamples.swift in Sources */,
 				8A557A2424C12F380098003A /* ChartDetailView.swift in Sources */,
 				8A5579D024C1293C0098003A /* SettingsLine.swift in Sources */,
+				C1FAF41029CD1F6B00CEA261 /* URL+Extensions.swift in Sources */,
 				1FC30412270540FB004BEE00 /* 72-Fonts.swift in Sources */,
+				C1FAF40629CD1F6B00CEA261 /* SingleAttachmentView.swift in Sources */,
 				B84D24ED2652F343007F2373 /* HeaderChartExample.swift in Sources */,
 				B846F94626815CC90085044B /* ContactItemExample.swift in Sources */,
 				8A5579CC24C1293C0098003A /* SettingsColorForCategory.swift in Sources */,
@@ -884,6 +956,7 @@
 				B8D4376F25F980340024EE7D /* ObjectCell_Spec_Jan2018.swift in Sources */,
 				8A5579CF24C1293C0098003A /* SettingsAxis.swift in Sources */,
 				B80DA9BC260BED9400C0B2E9 /* SingleActionCollectionView.swift in Sources */,
+				C1FAF40B29CD1F6B00CEA261 /* ViewControllerView.swift in Sources */,
 				8A5579D924C1293C0098003A /* SettingsSelection.swift in Sources */,
 				B80DA9C62612A54E00C0B2E9 /* ActivationScreenSample.swift in Sources */,
 				B8D437732609479E0024EE7D /* SingleActionFollowButton.swift in Sources */,
@@ -909,14 +982,17 @@
 				8AD9DFB125D49967007448EC /* ContactItemStateAndDataBindingExample.swift in Sources */,
 				B86F02A82679835F0049DDA7 /* ObjectItemInitExamples.swift in Sources */,
 				692F338B26556A6A009B98DA /* SideBarExample.swift in Sources */,
+				C1FAF41429CD27EB00CEA261 /* ConstantAndFunc.swift in Sources */,
 				8A5579D324C1293C0098003A /* SettingsPoint.swift in Sources */,
 				B80DA9BA260BBF8600C0B2E9 /* SingleActionProfiles.swift in Sources */,
 				8A5579D424C1293C0098003A /* SettingsBaseline.swift in Sources */,
+				C1FAF40829CD1F6B00CEA261 /* AttachmentViewCollection.swift in Sources */,
 				1F90888C261A59820015A84D /* FioriButtonExample.swift in Sources */,
 				B8D4377125F983730024EE7D /* ObjectCell_Rules_Alignment.swift in Sources */,
 				8A5579D524C1293C0098003A /* SettingsSeries.swift in Sources */,
 				8A557A2224C12C9B0098003A /* CoreContentView.swift in Sources */,
 				8A5579D224C1293C0098003A /* Color+Extensions.swift in Sources */,
+				C1FAF40D29CD1F6B00CEA261 /* AttachmentTestCases.swift in Sources */,
 				B84D24EF2652F343007F2373 /* ObjectHeaderTestApp.swift in Sources */,
 				B84D24EC2652F343007F2373 /* ObjectHeaderSpecCompact.swift in Sources */,
 				8A5579CD24C1293C0098003A /* SettingsLabel.swift in Sources */,
